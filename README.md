@@ -12,7 +12,7 @@ Forwards a named pipe server to a remote TCP server.
 
 This is mainly used to connect to virtual machines where KDNET is faulty to WinDbg.
 QEMU supports forwarding serial port output to a TCP server, while WinDbg supports
-reading COM debugging data from named pipes instead of COM devices to serve KVM guests.
+reading COM debugging data from named pipes instead of COM devices to serve Hyper-V guests.
 
 The tool is currently being used to debug ARM64 builds of
 [`lxmonika`](https://github.com/trungnt2910/lxmonika) on QEMU-KVM.
