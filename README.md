@@ -1,6 +1,6 @@
 # TcpToPipe
 
-[![Discord Invite](https://dcbadge.vercel.app/api/server/bcV3gXGtsJ?style=flat)](https://discord.gg/bcV3gXGtsJ)&nbsp;
+[![Discord Invite][2]][1]
 
 Forwards a named pipe server to a remote TCP server.
 
@@ -53,5 +53,8 @@ you should ignore the `VMHost` part.
 
 ## Community
 
-Need help using this project? Join me on [Discord](https://discord.gg/bcV3gXGtsJ) and find a
+Need help using this project? Join me on [Discord][1] and find a
 solution together.
+
+[1]: https://reality.trungnt2910.com/discord/lxmonika
+[2]: https://img.shields.io/discord/1185622479436251227?logo=discord&logoColor=white&label=Discord&labelColor=%235865F2
